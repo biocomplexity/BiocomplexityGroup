@@ -3,6 +3,7 @@
 **What is it?**
 A cohort of faculty, postdoctoral researchers, and students interested in complex, adaptive, biological systems spanning both SNS and Shaw. This is meant to be low-time-committment interest group with occasional activities that promote interdisciplinarity by way of a common interest in biological complexity.
 
+> Checkout our [wiki](https://github.com/biocomplexity/BiocomplexityGroup/wiki) for details!
 
 **Why?**
 Providing a means of communication between faculty and students who are generally interested in complex biological systems may allow us to
