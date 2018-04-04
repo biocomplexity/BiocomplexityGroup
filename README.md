@@ -1,4 +1,4 @@
-# BiocomplexityGroup
+# BioComplexityGroup
 
 **What is it?**
 A cohort of faculty, postdoctoral researchers, and students interested in complex, adaptive, biological systems spanning both SNS and SSHA. This is meant to be low-time-committment interest group with occasional activities that promote interdisciplinarity by way of a common interest in biological complexity.
